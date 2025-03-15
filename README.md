@@ -54,8 +54,8 @@ and can be executed on any machine.
       One set of yield curves are given in `data/yield_mean.csv` and Timberworks Inc. 
       yield curves from Northwest Territories are given in `data/nt_yields.csv`. 
    3. Use the `create_scenarios()` function in `src/utils.py` to create scenarios. 
-      Make sure to set the `cfg.exps_dir` same as `EXPS_DIR` in `run_gcbm.bat`. 
-   4. Make sure to set all other directories in `src/config.py` as needed when 
+      Set the `cfg.exps_dir` same as `EXPS_DIR` in `run_gcbm.bat`. 
+   4. Set all other directories in `src/config.py` as needed when 
       running all of the above. 
 
 4. **Run GCBM:** Make sure to set the `GCBM_FOLDER_NAME` and all other paths 
