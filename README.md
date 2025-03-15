@@ -31,7 +31,7 @@ and can be executed on any machine.
 
 ### Installation and Usage 
 
-1. **Clone the Repository:**
+1. **Clone and Install Repository:**
    ```bash
    git clone git@github.com:kevinbdsouza/AfforestationGCBM.git
    cd AfforestationGCBM
