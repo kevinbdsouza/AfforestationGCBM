@@ -70,4 +70,3 @@ and can be executed on any machine.
 
 ## License
 This project is licensed under the MIT License. See the [MIT LICENSE](https://github.com/kevinbdsouza/AfforestationGCBM/blob/main/LICENSE) file for more details.
-```
