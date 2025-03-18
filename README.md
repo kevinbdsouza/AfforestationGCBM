@@ -22,7 +22,7 @@ visualization, the Windows batch file used to run GCBM, and some data files.
 Note that GCBM currently runs only on Windows, the remaining Python scripts are platform-independent 
 and can be executed on any machine.
 
-**Preprint:** [Afforestation North-Western Boreal](#)
+**Preprint:** [Afforestation North-Western Boreal](https://arxiv.org/abs/2503.12331)
 
 ### Prerequisites
 - Windows to run GCBM 
